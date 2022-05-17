@@ -1,6 +1,6 @@
 # Advanced Statistics for Physics Analysis
 
-This folder contains all exercises and final projects for the course **Advanced Statistics for Physics Analysis**, attended in 2020/21 a.y. and held by by professor Alberto Garfagnini.<br>
+This folder contains all exercises and final projects for the course **Advanced Statistics for Physics Analysis**, attended in 2020/21 a.y. and held by professor Alberto Garfagnini.<br>
 The course involved weekly exercises in R with topics ranging from basic probability concepts (Bayes theorem, discrete and continuous probabilty distributions) to more advanced ones such as Bayesian inference and hypothesis testing.<br>
 In detail the notebooks cover:
   - R basics;
