@@ -8,4 +8,4 @@ The course covers an introduction to computational quantum physics and tensor ne
 **Title**: "Random Number Characterization via Quantum Inspired Machine Learning"<br>
 **Authors**: [Tommaso Faorlin](https://github.com/FaoTom), [Alessandro Marcomini](https://github.com/AleMarcomini), [Samuele Piccinelli](https://github.com/spiccinelli/)<br>
 
-The project has also been presented in a [poster](https://github.com/spiccinelli/UniversityProjects/blob/master/Quantum%20Information%20and%20Computing/FinalProject_Poster.pdf) at the European Spring School in Quantum Science and Technology held in [Strasburg](https://strasbourg2022.eu/) in April 2022.
+The project has also been presented in a [poster](https://github.com/spiccinelli/UniversityProjects/blob/master/Quantum%20Information%20and%20Computing/Poster_QCHS22.pdf) at the European Spring School in Quantum Science and Technology held in [Strasbourg](https://strasbourg2022.eu/) (April 2022) and at the Quantum Computing Hard- and Software Summer School held in [Lausanne](https://qchs2022.epfl.ethz.ch/) (June 2022).
