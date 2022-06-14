@@ -1,0 +1,15 @@
+nt=0.1
+set grid
+set xyplane at 0
+set format z "%.1e"
+unset key
+set terminal gif animate delay 20
+set output "multiplot_animated.gif"
+n=119
+do for [i=0:int(n-1)] {
+	set multiplot layout 1,1
+	set title sprintf("Schroedinger's 2D equation with potential barrier\nfor p_x = 2, p_y = 2 and V_0 = 2 [a.u.]\nTime: %.1f", (i*nt)) font "Times New Roman"
+	splot [0:100][0:100][0:0.01] 'S2D.dat' u 1:2:3 every :::i::i pt 7 ps 1 lt palette
+	unset multiplot
+}
+set output
